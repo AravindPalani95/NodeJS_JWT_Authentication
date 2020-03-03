@@ -1,0 +1,16 @@
+{
+  "name": "noderestendpoints_with_jwt_authentication",
+  "version": "1.0.0",
+  "description": "Rest Api with JWT Authentication - Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node","jwt","authentication"],
+  "author": "Aravind Palani - aravindpalani95@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1"
+  }
+}
